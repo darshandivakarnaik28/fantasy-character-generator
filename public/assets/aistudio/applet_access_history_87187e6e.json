@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-10-26T07:54:43.815399Z",
+    "firstAccessTime": "2026-10-26T07:41:45.054571Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "9d8d459e-6adf-4139-9cde-809cfef74739"
+      }
+    },
+    "name": "Fantasy Character Creator",
+    "description": "Generate unique fantasy characters with distinct classes, attributes, and lore at the click of a button."
+  }]
+}
